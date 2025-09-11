@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ESNext",
+    "outDir": "./dist",
+    "rootDir": "./ts",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": ["ts/**/*.ts"]
+}
